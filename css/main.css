@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Mono&family=Oswald:wght@300&display=swap');
+*{
+    padding: 0;
+    margin: 4px;
+    color: rgb(218, 216, 216);
+    font-size: 20px;
+    font-family: noto sans Mono;
+    background-color: rgb(94, 93, 93);
+}
+h1{
+    color: rgb(44, 40, 40);
+    font-size: 24px;
+}
+.radio{
+    margin-top: 25px;
+    margin-left: 280px;
+}
+.silhueta{
+    margin-top: 25px;
+    margin-left: 225px;
+}
